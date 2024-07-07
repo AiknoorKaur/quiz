@@ -7,7 +7,6 @@ const questions = [
         optionD: "None of the aboce",
         correctOption: "optionC"
     },
-
     {
         question: "Which of the following is a derived physical quantity?",
         optionA: "Mass",
@@ -16,7 +15,6 @@ const questions = [
         optionD: "Velocity",
         correctOption: "optionD"
     },
-
     {
         question: "Which of the following is a fundamental physical quantity?",
         optionA: "Force",
